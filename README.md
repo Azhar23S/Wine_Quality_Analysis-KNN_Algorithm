@@ -21,6 +21,6 @@ We will predict the quality of wine on the basis of given features. This dataset
   - Matplotlib <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png" width="18" height="18"/>
   - Seaborn <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="18" height="18"/>
 
-# Project - Customer Segmentation <img src="https://cdn-icons-png.flaticon.com/512/138/138339.png" alt="numpy" width="35" height="35"/>
+# Project - Wine Quality Analysis <img src="https://cdn-icons-png.flaticon.com/512/138/138339.png" alt="numpy" width="35" height="35"/>
 
 Dataset: <code>[Wine Quality Dataset](https://github.com/Azhar23S/Wine_Quality_Analysis-KNN_Algorithm/blob/main/winequality-red.csv)</code>
